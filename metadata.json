@@ -1,0 +1,7 @@
+{
+  "name": "ThrowerFinder",
+  "creator": "Ziumbaa",
+  "description": "Helps you detect throwers when they join your party",
+  "version": "1.0.0",
+  "entry": "index.js"
+}
